@@ -1,0 +1,16 @@
+body {
+  background-image: url(/image/dark-low-poly-background_1048-7971.webp);
+  background-size: contain;
+  min-height: 500px;
+}
+
+body h3 {
+  padding: 20% 40% 40% 40%;
+  color: white;
+  width: 300px;
+}
+
+body h3 span {
+  color: #ffc400;
+}
+/*# sourceMappingURL=style.css.map */
